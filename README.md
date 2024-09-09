@@ -1,4 +1,4 @@
-# WhaleyGroupMeetings
+# Whaley Group Meetings
 Repository to hold Whaley group talks
 
 | Date | Speaker | Topic | Link to Slides|

@@ -1,6 +1,6 @@
-# Whaley Group Meetings
-Repository to hold Whaley group talks
-
+# Whaley Group Meetings 
+**When**: Wednesday 3-4pm
+**Where**: 410 HMMB
 | Date | Speaker | Topic | Link to Slides|
 |------|---------|-------|---------------|
 |09/11 |Oskar Leimkuhler| ?? | ?? |

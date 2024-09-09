@@ -1,5 +1,6 @@
 # Whaley Group Meetings 
 **When**: Wednesday 3-4pm
+
 **Where**: 410 HMMB
 | Date | Speaker | Topic | Link to Slides|
 |------|---------|-------|---------------|

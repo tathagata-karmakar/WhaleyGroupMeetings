@@ -6,8 +6,8 @@
 |------|---------|-------|---------------|
 |09/11 |Oskar Leimkuhler| ?? | ?? |
 |09/18 |Liwen Ko| ?? | ??|
-|09/25 |Yipei Zhang|Workshop |?? |
-|10/02 |Yipei Zhang|Workshop II|??|
+|09/25 |Yipei Zhang|?? |?? |
+|10/02 |Open ||??|
 |10/09 |Rob Cook| ?? |?? |
 |10/16 |Open | ?? | ??|
 |10/23 |Hang/Nam| ?? | ??|

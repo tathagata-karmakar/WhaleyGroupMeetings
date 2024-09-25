@@ -7,7 +7,7 @@
 |09/11 |Oskar Leimkuhler| Tensor network quantum algorithms | ?? |
 |09/18 |Liwen Ko| Input-output formalism | ??|
 |09/25 |Yipei Zhang|?? |?? |
-|10/02 |Jordan Hines ||??|
+|10/02 |Jordan Hines |Scalable Benchmarking of Mid-Circuit Measurements using Pauli Noise Learning||
 |10/09 |Rob Cook| ?? |?? |
 |10/16 |Open | ?? | ??|
 |10/23 |Hang/Nam| ?? | ??|
@@ -17,4 +17,4 @@
 |11/20 |Open | ?? | ??|
 |11/27 |Open | ?? | ??|
 |12/04 |Open | ?? | ??|
-|12/11 |Open | ?? | ??|
+|12/11 |Open | Philippe Lewalle | ??|

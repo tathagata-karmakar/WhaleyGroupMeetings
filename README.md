@@ -4,10 +4,10 @@
 **Where**: 410 HMMB
 | Date | Speaker | Topic | Link to Slides|
 |------|---------|-------|---------------|
-|09/11 |Oskar Leimkuhler| ?? | ?? |
-|09/18 |Liwen Ko| ?? | ??|
+|09/11 |Oskar Leimkuhler| Tensor network quantum algorithms | ?? |
+|09/18 |Liwen Ko| Input-output formalism | ??|
 |09/25 |Yipei Zhang|?? |?? |
-|10/02 |Open ||??|
+|10/02 |Jordan Hines ||??|
 |10/09 |Rob Cook| ?? |?? |
 |10/16 |Open | ?? | ??|
 |10/23 |Hang/Nam| ?? | ??|

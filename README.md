@@ -5,7 +5,7 @@
 | Date | Speaker | Topic | Link to Slides|
 |------|---------|-------|---------------|
 |09/11 |Oskar Leimkuhler| Tensor network quantum algorithms | ?? |
-|09/18 |Liwen Ko| Input-output formalism | ??|
+|09/18 |Liwen Ko| Input-output formalism | [slides](SpeakerFiles/liwenSlides09_18_24.pdf)|
 |09/25 |Yipei Zhang|?? |?? |
 |10/02 |Jordan Hines |Scalable Benchmarking of Mid-Circuit Measurements using Pauli Noise Learning||
 |10/09 |Rob Cook| ?? |?? |

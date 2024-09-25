@@ -9,7 +9,7 @@
 |09/25 |Yipei Zhang|?? |?? |
 |10/02 |Jordan Hines |Scalable Benchmarking of Mid-Circuit Measurements using Pauli Noise Learning||
 |10/09 |Rob Cook| ?? |?? |
-|10/16 |Open | ?? | ??|
+|10/16 |Tyler Kharazi | Quantum computational non-linear spectroscopy | ??|
 |10/23 |Hang/Nam| ?? | ??|
 |10/30 |Hang/Nam| ?? | ??|
 |11/06 |Open | ?? | ??|

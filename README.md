@@ -12,7 +12,7 @@
 |10/16 |Tyler Kharazi | Quantum computational non-linear spectroscopy | ??|
 |10/23 |Hang/Nam| ?? | ??|
 |10/30 |Hang/Nam| ?? | ??|
-|11/06 |Open | ?? | ??|
+|11/06 |Open | Tathagata Karmakar| ??|
 |11/13 |Open | ?? | ??|
 |11/20 |Open | ?? | ??|
 |11/27 |Open | ?? | ??|

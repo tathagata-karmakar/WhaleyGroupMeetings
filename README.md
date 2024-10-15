@@ -8,7 +8,7 @@
 |09/18 |Liwen Ko| Input-output formalism for light-matter interactions | [slides](SpeakerFiles/liwenSlides09_18_24.pdf)|
 |09/25 |Yipei Zhang|Weak measurement quantum algorithm for K-sat |?? |
 |10/02 |Jordan Hines |Scalable Benchmarking of Mid-Circuit Measurements using Pauli Noise Learning| ??|
-|10/09 |Rob Cook| ?? |?? |
+|10/09 |Rob Cook| Quantum parameter estimation near exceptional points |?? |
 |10/16 |Tyler Kharazi | Quantum computational non-linear spectroscopy | ??|
 |10/23 |Hang Ren| ?? | ??|
 |10/30 |Nam Nguyen| ?? | ??|

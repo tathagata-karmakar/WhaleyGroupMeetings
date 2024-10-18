@@ -14,7 +14,7 @@
 |10/30 |Nam Nguyen| ?? | ??|
 |11/06 |Tathagata Karmakar | | ??|
 |11/13 |Wendy Billings | ?? | ??|
-|11/20 |Open | ?? | ??|
-|11/27 |J.P. Marceaux | ?? | ??|
-|12/04 |Open | ?? | ??|
+|11/20 |J.P. Marceaux | ?? | ??|
+|11/27 |Thanksgiving Holiday | -- | --|
+|12/04 |Yulong Dong | ?? | ??|
 |12/11 |Philippe Lewalle | ?? | ??|

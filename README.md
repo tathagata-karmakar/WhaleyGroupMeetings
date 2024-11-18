@@ -14,7 +14,7 @@
 |10/30 |Nam Nguyen| ?? | ??|
 |11/06 |J.P. Marceaux | | ??|
 |11/13 |Wendy Billings | ?? | ??|
-|11/20 |Tathagata Karmakar | ?? | ??|
+|11/20 |Tathagata Karmakar | Stochastic Path Integral Analysis of the Continuously Monitored Simple Harmonic Oscillator | ??|
 |11/27 |Thanksgiving Holiday | -- | --|
 |12/04 |Yulong Dong | ?? | ??|
 |12/11 |Philippe Lewalle | ?? | ??|
